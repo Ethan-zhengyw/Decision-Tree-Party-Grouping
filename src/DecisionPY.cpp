@@ -7,7 +7,7 @@
 #include <iostream>
 
 #define ATTRNUM 16
-#define LINESIZE 44
+#define LINESIZE 42
 #define TESTSETPERCENTAGE 10
 using namespace std;
 
